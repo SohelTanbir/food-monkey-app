@@ -1,0 +1,12 @@
+{
+  "name": "food-monkey-app",
+  "displayName": "food-monkey-app",
+  "expo": {
+    "name": "food-monkey-app",
+    "slug": "food-monkey-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
